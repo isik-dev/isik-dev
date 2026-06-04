@@ -27,10 +27,6 @@ projects that show how I build outside of work.
 
 `Python` · `TypeScript` · `FastAPI` · `NestJS` · `PostgreSQL` · `MySQL` · `Redis` · `Docker` · `Kubernetes` · `Jenkins`
 
-### Currently
-
-Sharpening data structures and algorithms and system design. Open to backend roles in Seoul.
-
 ### Reach me
 
 - Email: isikneo@gmail.com
